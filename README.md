@@ -1,1 +1,2 @@
+# The goal of this project is to learn about Python primitive types, Type Error, Type Checking, Type Conversion, Mathematical Operations, Number manipulation and F Strings through a simple project of a Tip Calculator based on the total bill, the tip and how many people are paying.
 # tip-calculator
